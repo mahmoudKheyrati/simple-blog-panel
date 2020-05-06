@@ -1,0 +1,14 @@
+.dialog {
+    margin: 64px;
+    maxWidth: 100%;
+    direction: rtl;
+
+}
+
+.font {
+    fontFamily: 'IRANSans, sans-serif';
+}
+.button {
+    margin: 16px 8px;
+
+}
